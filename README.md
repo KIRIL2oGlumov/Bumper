@@ -1,2 +1,0 @@
-# Bumper
-Cache length
